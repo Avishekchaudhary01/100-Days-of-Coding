@@ -7,10 +7,12 @@ My 100 Days of Coding Challenge — DSA, problem solving, projects, and daily le
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Avishekchaudhary01/100-Days-of-Coding/tree/master/0022-generate-parentheses) |
+| [0010-regular-expression-matching](https://github.com/Avishekchaudhary01/100-Days-of-Coding/tree/master/0010-regular-expression-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Avishekchaudhary01/100-Days-of-Coding/tree/master/0022-generate-parentheses) |
+| [0010-regular-expression-matching](https://github.com/Avishekchaudhary01/100-Days-of-Coding/tree/master/0010-regular-expression-matching) |
 ## Backtracking
 |  |
 | ------- |
@@ -19,4 +21,8 @@ My 100 Days of Coding Challenge — DSA, problem solving, projects, and daily le
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Avishekchaudhary01/100-Days-of-Coding/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Avishekchaudhary01/100-Days-of-Coding/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
